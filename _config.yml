@@ -1,28 +1,25 @@
 # Site settings
-title: Microdust
+title: EndPoint
 header-img: "img/autumn2.jpg"
-tagline: "吉光片羽"  
-description: "在遙遠的地方 一切虔誠終必相遇"  
-baseurl: ""
-url: "http://azeril.me"  
-#url: "http://localhost:4000"
+tagline: “终点星”  
+description: “在群星的尽头，就是第二基地”  
+
 
 # About/contact
 owner: 
-  name: "Azeril"
-  email: azeril@live.cn
-  bio: "明朝即長路 惜取此時心"
+  name: “Qiao Miao”
+  email: qiaomiao@me.com
+  bio: “Fight a long twilight struggle to see a new world.”
 
 # Data
-gavatar: http://dreamofbook.qiniudn.com/Az..png
+gavatar: images/bio-photo.jpg
 favicon: img/favicon.ico
 
-douban_username: Azeril
-twitter_username: Azeril_Lapland  
-github_username: Azeril  
-facebook_username: Azeril_Lapland  
-weibo_username: Azeril  
-zhihu_username: Azeril  
+
+github_username: qmroy
+weibo_username: qiaomiao 
+zhihu_username: qiaomiao
+steam_username: qiaomiaoroy  
 
 # Build settings  
 # use Github Flavored Markdown !important  
@@ -53,7 +50,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Azeril"
+      author: “Qiao Miao”
       header-img: "img/fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
@@ -61,9 +58,9 @@ defaults:
 comments :
   provider : duoshuo
   duoshuo :
-    short_name : Azeril
+    short_name : Qiao Miao
   disqus :
-      short_name : Azeril
+      short_name : Qiao Miao
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-66863061-1
