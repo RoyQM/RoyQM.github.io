@@ -1,7 +1,7 @@
 # Site settings
-title: EndPoint
+title: The 2nd Foundation
 header-img: "img/autumn2.jpg"
-tagline: “终点星”  
+tagline: “第二基地”  
 description: “在群星的尽头，就是第二基地”  
 
 
@@ -16,7 +16,7 @@ gavatar: images/bio-photo.jpg
 favicon: img/favicon.ico
 
 
-github_username: qmroy
+github_username: RoyQM
 weibo_username: qiaomiao 
 zhihu_username: qiaomiao
 steam_username: qiaomiaoroy  
