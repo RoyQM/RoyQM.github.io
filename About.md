@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About"
+title: "关于作者"
 description: "Ask not what the blogger can do for you...LOL"
 header-img: "img/earth.jpg"
 ---
