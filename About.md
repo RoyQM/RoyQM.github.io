@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "Ask not what the blogger can do for you...LOL"
-header-img: "img/earth.jpg"
+header-img: "img/isssunset.jpg"
 ---
 
 After-80s, Beijinger, Slash. Psychological Counselor / GRE Teacher / Writer / To be added. A practicer of Krav Maga and Kali(Phillipino Martial Arts). Prefer cats, guns, soda, and board games.
