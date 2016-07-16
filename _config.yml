@@ -50,7 +50,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: “Qiao Miao”
+      author: Qiao Miao
       header-img: "img/fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
 
 
