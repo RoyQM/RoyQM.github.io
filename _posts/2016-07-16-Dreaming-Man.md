@@ -4,6 +4,7 @@ title: 做梦的人
 categories: [blog, Fiction ]
 tags: [Sci-Fi]
 description: 一部短篇科幻小说
+excerpt: 「如果，可以死掉的话……」
 ---
 
 走过这沉睡的王国
