@@ -1,25 +1,21 @@
 ---
 layout: page
 title: "About"
-description: "嘿，你总算找到我啦"
-header-img: "img/plane.jpg"
+description: "Ask not what the blogger can do for you...LOL"
+header-img: "img/earth.jpg"
 ---
 
-<center>
-    <p><img src="http://dreamofbook.qiniudn.com/Zero.png" align="center"></p>
-</center>
+After-80s, Beijinger, Slash. Psychological Counselor / GRE Teacher / Writer / To be added. A practicer of Krav Maga and Kali(Phillipino Martial Arts). Prefer cats, guns, soda, and board games.
 
-Ehhhh...I know it's not a good question.
+80 后，北漂，斜杠。心理咨询师 / GRE 教师 / 作家 / 再干点什么待定。马伽术和菲律宾武术练习者。喜欢猫、枪械、苏打水和桌面游戏。
 
-My Name is Azeril. You may find me in sites like douban.com / Goodreads.com / Facebook / Instagram / Twitter / Weibo.com, so on and so forth. It’s easy to know me. My short name is Az., quite easy to remember, right?
-
-喜欢折腾的伪技术宅。一点点 geek，一丢丢的执著，就像吃烧烤时多少会撒一点孜然，恰到好处就够。日常之中，多的是折腾劲，也希望能添几分专注、几许勇敢。这就是我。
-
-——Azeril
+> Fight a long twilight struggle to see a new world.
 
 
-> Live long and prosper
 
-<center>
-    <p><img src="http://dreamofbook.qiniudn.com/hacker.png" align="center"></p>
-</center>
+
+
+
+
+
+
